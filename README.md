@@ -8,6 +8,6 @@
 - here's the [LINK](https://sepolia.etherscan.io/address/0x554d8dd87dBfC5287303137d9236DFb06bb764D2)
 
 
-![Alt text](./Screenshot2023-06-07225435.png)
+![Alt text](https://github.com/yoharsh14/TRUSTMART/blob/master/Screenshot%202023-06-07%20225435.png)
 
 
