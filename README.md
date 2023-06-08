@@ -8,6 +8,6 @@
 - here's the [LINK](https://sepolia.etherscan.io/address/0x554d8dd87dBfC5287303137d9236DFb06bb764D2)
 
 
-![Alt text](./Screenshot2023-06-07225435.jpeg)
+![Alt text](./Screenshot2023-06-07225435.png)
 
 
